@@ -1,6 +1,6 @@
 ### Hi there, I´m Joao Vitor Boer 👋
 
-- 🔭 I’m currently stuying Computer Engeneering.
+- 🔭 I’m currently stuying Data Science & AI.
 - 🌱 I’m currently learning Python.
 - 👨‍💻 PET-Informática - PUCRS
 - 📚 Pontifícia Universidade Católica do Rio Grande do Sul - PUCRS
