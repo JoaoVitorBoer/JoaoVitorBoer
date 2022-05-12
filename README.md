@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently stuying Data Science & AI.
 - 🌱 I’m currently learning Python.
-- 👨‍💻 PET-Informática - PUCRS
+- 👨‍💻 Dell It Academy
 - 📚 Pontifícia Universidade Católica do Rio Grande do Sul - PUCRS
 - ⚡ Fun fact: 
 -->
