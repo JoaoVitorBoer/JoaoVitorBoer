@@ -1,5 +1,5 @@
 ### Hi there, I´m Joao Vitor Boer 👋
-
+# 
 - 🔭 I’m currently stuying Data Science & AI.
 - 🌱 I’m currently learning Python.
 - 👨‍💻 Dell It Academy
