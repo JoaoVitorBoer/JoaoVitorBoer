@@ -1,4 +1,4 @@
-<img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/rainbow.gif" width="100%">
+
 ### Hi there, I´m Joao Vitor Boer 👋
 # 
 - 🔭 I’m currently stuying Data Science & AI.
