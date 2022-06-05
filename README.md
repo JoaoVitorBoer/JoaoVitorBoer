@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Python.
 - 👨‍💻 Dell It Academy
 - 📚 Pontifícia Universidade Católica do Rio Grande do Sul - PUCRS
-- ⚡ Fun fact: 
+
 -->
 
 <div align="center">
