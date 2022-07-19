@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/JoaoVitorBoer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorBoer&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=css"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorBoer&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=CSS"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorBoer&layout=compact&exclude_repo=Projeto-Airbnb-Rio&langs_count=6&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
