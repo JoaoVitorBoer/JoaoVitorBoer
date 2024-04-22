@@ -1,12 +1,9 @@
 
 ### Hi there, I´m Joao Vitor Boer 👋
 # 
-- 🔭 I’m currently stuying Data Science & AI.
-- 🌱 I’m currently learning Python.
-- 👨‍💻 Dell It Academy
+- 🔭 Bachelor in Data Science & AI.
+- 👨‍💻 Software Engineer I - Dell Technologies
 - 📚 Pontifícia Universidade Católica do Rio Grande do Sul - PUCRS
-
--->
 
 <div align="center">
   <a href="https://github.com/JoaoVitorBoer">
