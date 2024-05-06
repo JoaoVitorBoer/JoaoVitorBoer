@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 **Software Engineer** at [Dell Techonologies](https://www.dell.com/) 
+ 🔭 **Working** at [Dell Techonologies](https://www.dell.com/) 
  
  🎓 **Data Science & Artificial Intelligence** undergraduate student at [PUCRS](https://www.pucrs.br/politecnica/curso/ciencia-de-dados/)
 
