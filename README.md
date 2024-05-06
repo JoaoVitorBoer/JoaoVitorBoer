@@ -12,7 +12,7 @@
  
  🔭 **Working** at [Dell Techonologies](https://www.dell.com/) 
  
- 🎓 **Data Science & Artificial Intelligence** undergraduate student at [PUCRS]([https://www.pucrs.br/politecnica/curso/ciencia-de-dados/](https://portal.pucrs.br/ensino/cursos/graduacao/ciencia-de-dados-e-inteligencia-artificial/))
+ 🎓 **Data Science & Artificial Intelligence** undergraduate student at [PUCRS](https://portal.pucrs.br/ensino/cursos/graduacao/ciencia-de-dados-e-inteligencia-artificial/)
 
 💬 Ask me about **Python, Machine Learning... or anything [here](https://github.com/joaovitorboer/joaovitorboer/issues)**
 
