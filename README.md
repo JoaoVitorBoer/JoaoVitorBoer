@@ -14,8 +14,6 @@
  
  🎓 **Data Science & Artificial Intelligence** bachelor at [PUCRS](https://portal.pucrs.br/ensino/cursos/graduacao/ciencia-de-dados-e-inteligencia-artificial/)
 
-💬 Ask me about **Python, Machine Learning, AI ... or anything [here](https://github.com/joaovitorboer/joaovitorboer/issues)**
-
 
  </div>
 <div align="center"> 
