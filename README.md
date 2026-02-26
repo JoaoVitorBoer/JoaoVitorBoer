@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 **Working** as AI Researcher at [MALTA Lab](https://malta-lab.github.io/malta-lab-site/)
+ 🔭 **Working** as AI Researcher at [MALTA Lab](https://malta-lab.github.io/malta-lab-site/) and [HP NAIA](https://www.politecnica.pucrs.br/laboratorios/lis/#parceiro)
  
  🎓 **Data Science & Artificial Intelligence** bachelor at [PUCRS](https://portal.pucrs.br/ensino/cursos/graduacao/ciencia-de-dados-e-inteligencia-artificial/)
 
